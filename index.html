@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
+    <title>HireAce — Real-Time AI Interview Assistant & Copilot</title>
+    <meta name="description" content="Ultra-fast AI interview assistant with real-time speech recognition, instant screen analysis, and an invisible stealth overlay." />
+    <meta name="theme-color" content="#050816" />
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    
+    <!-- Open Graph & Twitter Cards -->
+    <meta property="og:title" content="HireAce — Real-Time AI Interview Intelligence" />
+    <meta property="og:description" content="Real-time AI interview assistant with instant answers, live speech transcription, and a seamless invisible desktop overlay." />
+    <meta property="og:type" content="website" />
+    
+    <!-- Typography: Inter & JetBrains Mono -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet" />
+
+    <!-- Anti-FOUC Theme Initializer -->
+    <script>
+      (function () {
+        try {
+          var stored = localStorage.getItem('hireace-theme');
+          var systemDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+          var theme = stored ? stored : (systemDark ? 'dark' : 'light');
+          document.documentElement.setAttribute('data-theme', theme);
+        } catch (e) {}
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

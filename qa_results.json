@@ -1,0 +1,654 @@
+{
+  "auditReport": [
+    {
+      "viewport": {
+        "width": 320,
+        "height": 640,
+        "name": "mobile_320"
+      },
+      "overflow": {
+        "scrollW": 320,
+        "clientW": 320,
+        "hasHorizontalScroll": false,
+        "diff": 0,
+        "overflowingElements": [
+          {
+            "tag": "CODE",
+            "id": "",
+            "className": "",
+            "width": 384,
+            "clientW": 320
+          },
+          {
+            "tag": "SPAN",
+            "id": "",
+            "className": "",
+            "width": 384,
+            "clientW": 320
+          },
+          {
+            "tag": "DIV",
+            "id": "",
+            "className": "final-cta-glow-mesh",
+            "width": 600,
+            "clientW": 320
+          }
+        ]
+      },
+      "screenshot": "d:\\My Projects\\landing-page\\qa_screenshots\\mobile_320.png"
+    },
+    {
+      "viewport": {
+        "width": 360,
+        "height": 740,
+        "name": "mobile_360"
+      },
+      "overflow": {
+        "scrollW": 360,
+        "clientW": 360,
+        "hasHorizontalScroll": false,
+        "diff": 0,
+        "overflowingElements": [
+          {
+            "tag": "CODE",
+            "id": "",
+            "className": "",
+            "width": 384,
+            "clientW": 360
+          },
+          {
+            "tag": "SPAN",
+            "id": "",
+            "className": "",
+            "width": 384,
+            "clientW": 360
+          },
+          {
+            "tag": "DIV",
+            "id": "",
+            "className": "final-cta-glow-mesh",
+            "width": 600,
+            "clientW": 360
+          }
+        ]
+      },
+      "screenshot": "d:\\My Projects\\landing-page\\qa_screenshots\\mobile_360.png"
+    },
+    {
+      "viewport": {
+        "width": 375,
+        "height": 667,
+        "name": "mobile_375"
+      },
+      "overflow": {
+        "scrollW": 375,
+        "clientW": 375,
+        "hasHorizontalScroll": false,
+        "diff": 0,
+        "overflowingElements": [
+          {
+            "tag": "CODE",
+            "id": "",
+            "className": "",
+            "width": 384,
+            "clientW": 375
+          },
+          {
+            "tag": "SPAN",
+            "id": "",
+            "className": "",
+            "width": 384,
+            "clientW": 375
+          },
+          {
+            "tag": "DIV",
+            "id": "",
+            "className": "final-cta-glow-mesh",
+            "width": 600,
+            "clientW": 375
+          }
+        ]
+      },
+      "screenshot": "d:\\My Projects\\landing-page\\qa_screenshots\\mobile_375.png"
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844,
+        "name": "mobile_390"
+      },
+      "overflow": {
+        "scrollW": 390,
+        "clientW": 390,
+        "hasHorizontalScroll": false,
+        "diff": 0,
+        "overflowingElements": [
+          {
+            "tag": "DIV",
+            "id": "",
+            "className": "final-cta-glow-mesh",
+            "width": 600,
+            "clientW": 390
+          }
+        ]
+      },
+      "screenshot": "d:\\My Projects\\landing-page\\qa_screenshots\\mobile_390.png"
+    },
+    {
+      "viewport": {
+        "width": 414,
+        "height": 896,
+        "name": "mobile_414"
+      },
+      "overflow": {
+        "scrollW": 414,
+        "clientW": 414,
+        "hasHorizontalScroll": false,
+        "diff": 0,
+        "overflowingElements": [
+          {
+            "tag": "DIV",
+            "id": "",
+            "className": "final-cta-glow-mesh",
+            "width": 600,
+            "clientW": 414
+          }
+        ]
+      },
+      "screenshot": "d:\\My Projects\\landing-page\\qa_screenshots\\mobile_414.png"
+    },
+    {
+      "viewport": {
+        "width": 430,
+        "height": 932,
+        "name": "mobile_430"
+      },
+      "overflow": {
+        "scrollW": 430,
+        "clientW": 430,
+        "hasHorizontalScroll": false,
+        "diff": 0,
+        "overflowingElements": [
+          {
+            "tag": "DIV",
+            "id": "",
+            "className": "final-cta-glow-mesh",
+            "width": 600,
+            "clientW": 430
+          }
+        ]
+      },
+      "screenshot": "d:\\My Projects\\landing-page\\qa_screenshots\\mobile_430.png"
+    },
+    {
+      "viewport": {
+        "width": 480,
+        "height": 854,
+        "name": "mobile_480"
+      },
+      "overflow": {
+        "scrollW": 480,
+        "clientW": 480,
+        "hasHorizontalScroll": false,
+        "diff": 0,
+        "overflowingElements": [
+          {
+            "tag": "DIV",
+            "id": "",
+            "className": "final-cta-glow-mesh",
+            "width": 600,
+            "clientW": 480
+          }
+        ]
+      },
+      "screenshot": "d:\\My Projects\\landing-page\\qa_screenshots\\mobile_480.png"
+    },
+    {
+      "viewport": {
+        "width": 540,
+        "height": 720,
+        "name": "tablet_540"
+      },
+      "overflow": {
+        "scrollW": 540,
+        "clientW": 540,
+        "hasHorizontalScroll": false,
+        "diff": 0,
+        "overflowingElements": [
+          {
+            "tag": "DIV",
+            "id": "",
+            "className": "final-cta-glow-mesh",
+            "width": 600,
+            "clientW": 540
+          }
+        ]
+      },
+      "screenshot": "d:\\My Projects\\landing-page\\qa_screenshots\\tablet_540.png"
+    },
+    {
+      "viewport": {
+        "width": 600,
+        "height": 960,
+        "name": "tablet_600"
+      },
+      "overflow": {
+        "scrollW": 600,
+        "clientW": 600,
+        "hasHorizontalScroll": false,
+        "diff": 0,
+        "overflowingElements": []
+      },
+      "screenshot": "d:\\My Projects\\landing-page\\qa_screenshots\\tablet_600.png"
+    },
+    {
+      "viewport": {
+        "width": 768,
+        "height": 1024,
+        "name": "tablet_768"
+      },
+      "overflow": {
+        "scrollW": 768,
+        "clientW": 768,
+        "hasHorizontalScroll": false,
+        "diff": 0,
+        "overflowingElements": []
+      },
+      "screenshot": "d:\\My Projects\\landing-page\\qa_screenshots\\tablet_768.png"
+    },
+    {
+      "viewport": {
+        "width": 820,
+        "height": 1180,
+        "name": "tablet_820"
+      },
+      "overflow": {
+        "scrollW": 820,
+        "clientW": 820,
+        "hasHorizontalScroll": false,
+        "diff": 0,
+        "overflowingElements": []
+      },
+      "screenshot": "d:\\My Projects\\landing-page\\qa_screenshots\\tablet_820.png"
+    },
+    {
+      "viewport": {
+        "width": 900,
+        "height": 1200,
+        "name": "tablet_900"
+      },
+      "overflow": {
+        "scrollW": 900,
+        "clientW": 900,
+        "hasHorizontalScroll": false,
+        "diff": 0,
+        "overflowingElements": []
+      },
+      "screenshot": "d:\\My Projects\\landing-page\\qa_screenshots\\tablet_900.png"
+    },
+    {
+      "viewport": {
+        "width": 1024,
+        "height": 768,
+        "name": "laptop_1024"
+      },
+      "overflow": {
+        "scrollW": 1024,
+        "clientW": 1024,
+        "hasHorizontalScroll": false,
+        "diff": 0,
+        "overflowingElements": []
+      },
+      "screenshot": "d:\\My Projects\\landing-page\\qa_screenshots\\laptop_1024.png"
+    },
+    {
+      "viewport": {
+        "width": 1180,
+        "height": 820,
+        "name": "laptop_1180"
+      },
+      "overflow": {
+        "scrollW": 1180,
+        "clientW": 1180,
+        "hasHorizontalScroll": false,
+        "diff": 0,
+        "overflowingElements": []
+      },
+      "screenshot": "d:\\My Projects\\landing-page\\qa_screenshots\\laptop_1180.png"
+    },
+    {
+      "viewport": {
+        "width": 1280,
+        "height": 800,
+        "name": "laptop_1280"
+      },
+      "overflow": {
+        "scrollW": 1280,
+        "clientW": 1280,
+        "hasHorizontalScroll": false,
+        "diff": 0,
+        "overflowingElements": []
+      },
+      "screenshot": "d:\\My Projects\\landing-page\\qa_screenshots\\laptop_1280.png"
+    },
+    {
+      "viewport": {
+        "width": 1366,
+        "height": 768,
+        "name": "laptop_1366"
+      },
+      "overflow": {
+        "scrollW": 1366,
+        "clientW": 1366,
+        "hasHorizontalScroll": false,
+        "diff": 0,
+        "overflowingElements": []
+      },
+      "screenshot": "d:\\My Projects\\landing-page\\qa_screenshots\\laptop_1366.png"
+    },
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "name": "laptop_1440"
+      },
+      "overflow": {
+        "scrollW": 1440,
+        "clientW": 1440,
+        "hasHorizontalScroll": false,
+        "diff": 0,
+        "overflowingElements": []
+      },
+      "screenshot": "d:\\My Projects\\landing-page\\qa_screenshots\\laptop_1440.png"
+    },
+    {
+      "viewport": {
+        "width": 1536,
+        "height": 864,
+        "name": "desktop_1536"
+      },
+      "overflow": {
+        "scrollW": 1536,
+        "clientW": 1536,
+        "hasHorizontalScroll": false,
+        "diff": 0,
+        "overflowingElements": []
+      },
+      "screenshot": "d:\\My Projects\\landing-page\\qa_screenshots\\desktop_1536.png"
+    },
+    {
+      "viewport": {
+        "width": 1920,
+        "height": 1080,
+        "name": "desktop_1920"
+      },
+      "overflow": {
+        "scrollW": 1920,
+        "clientW": 1920,
+        "hasHorizontalScroll": false,
+        "diff": 0,
+        "overflowingElements": []
+      },
+      "screenshot": "d:\\My Projects\\landing-page\\qa_screenshots\\desktop_1920.png"
+    },
+    {
+      "viewport": {
+        "width": 2560,
+        "height": 1440,
+        "name": "ultrawide_2560"
+      },
+      "overflow": {
+        "scrollW": 2560,
+        "clientW": 2560,
+        "hasHorizontalScroll": false,
+        "diff": 0,
+        "overflowingElements": []
+      },
+      "screenshot": "d:\\My Projects\\landing-page\\qa_screenshots\\ultrawide_2560.png"
+    },
+    {
+      "viewport": {
+        "width": 479,
+        "height": 800,
+        "name": "bound_479"
+      },
+      "overflow": {
+        "scrollW": 479,
+        "clientW": 479,
+        "hasHorizontalScroll": false,
+        "diff": 0,
+        "overflowingElements": [
+          {
+            "tag": "DIV",
+            "id": "",
+            "className": "final-cta-glow-mesh",
+            "width": 600,
+            "clientW": 479
+          }
+        ]
+      },
+      "screenshot": "d:\\My Projects\\landing-page\\qa_screenshots\\bound_479.png"
+    },
+    {
+      "viewport": {
+        "width": 481,
+        "height": 800,
+        "name": "bound_481"
+      },
+      "overflow": {
+        "scrollW": 481,
+        "clientW": 481,
+        "hasHorizontalScroll": false,
+        "diff": 0,
+        "overflowingElements": [
+          {
+            "tag": "DIV",
+            "id": "",
+            "className": "final-cta-glow-mesh",
+            "width": 600,
+            "clientW": 481
+          }
+        ]
+      },
+      "screenshot": "d:\\My Projects\\landing-page\\qa_screenshots\\bound_481.png"
+    },
+    {
+      "viewport": {
+        "width": 539,
+        "height": 800,
+        "name": "bound_539"
+      },
+      "overflow": {
+        "scrollW": 539,
+        "clientW": 539,
+        "hasHorizontalScroll": false,
+        "diff": 0,
+        "overflowingElements": [
+          {
+            "tag": "DIV",
+            "id": "",
+            "className": "final-cta-glow-mesh",
+            "width": 600,
+            "clientW": 539
+          }
+        ]
+      },
+      "screenshot": "d:\\My Projects\\landing-page\\qa_screenshots\\bound_539.png"
+    },
+    {
+      "viewport": {
+        "width": 541,
+        "height": 800,
+        "name": "bound_541"
+      },
+      "overflow": {
+        "scrollW": 541,
+        "clientW": 541,
+        "hasHorizontalScroll": false,
+        "diff": 0,
+        "overflowingElements": [
+          {
+            "tag": "DIV",
+            "id": "",
+            "className": "final-cta-glow-mesh",
+            "width": 600,
+            "clientW": 541
+          }
+        ]
+      },
+      "screenshot": "d:\\My Projects\\landing-page\\qa_screenshots\\bound_541.png"
+    },
+    {
+      "viewport": {
+        "width": 767,
+        "height": 1024,
+        "name": "bound_767"
+      },
+      "overflow": {
+        "scrollW": 767,
+        "clientW": 767,
+        "hasHorizontalScroll": false,
+        "diff": 0,
+        "overflowingElements": []
+      },
+      "screenshot": "d:\\My Projects\\landing-page\\qa_screenshots\\bound_767.png"
+    },
+    {
+      "viewport": {
+        "width": 769,
+        "height": 1024,
+        "name": "bound_769"
+      },
+      "overflow": {
+        "scrollW": 769,
+        "clientW": 769,
+        "hasHorizontalScroll": false,
+        "diff": 0,
+        "overflowingElements": []
+      },
+      "screenshot": "d:\\My Projects\\landing-page\\qa_screenshots\\bound_769.png"
+    },
+    {
+      "viewport": {
+        "width": 819,
+        "height": 1180,
+        "name": "bound_819"
+      },
+      "overflow": {
+        "scrollW": 819,
+        "clientW": 819,
+        "hasHorizontalScroll": false,
+        "diff": 0,
+        "overflowingElements": []
+      },
+      "screenshot": "d:\\My Projects\\landing-page\\qa_screenshots\\bound_819.png"
+    },
+    {
+      "viewport": {
+        "width": 821,
+        "height": 1180,
+        "name": "bound_821"
+      },
+      "overflow": {
+        "scrollW": 821,
+        "clientW": 821,
+        "hasHorizontalScroll": false,
+        "diff": 0,
+        "overflowingElements": []
+      },
+      "screenshot": "d:\\My Projects\\landing-page\\qa_screenshots\\bound_821.png"
+    },
+    {
+      "viewport": {
+        "width": 899,
+        "height": 1000,
+        "name": "bound_899"
+      },
+      "overflow": {
+        "scrollW": 899,
+        "clientW": 899,
+        "hasHorizontalScroll": false,
+        "diff": 0,
+        "overflowingElements": []
+      },
+      "screenshot": "d:\\My Projects\\landing-page\\qa_screenshots\\bound_899.png"
+    },
+    {
+      "viewport": {
+        "width": 901,
+        "height": 1000,
+        "name": "bound_901"
+      },
+      "overflow": {
+        "scrollW": 901,
+        "clientW": 901,
+        "hasHorizontalScroll": false,
+        "diff": 0,
+        "overflowingElements": []
+      },
+      "screenshot": "d:\\My Projects\\landing-page\\qa_screenshots\\bound_901.png"
+    },
+    {
+      "viewport": {
+        "width": 1023,
+        "height": 800,
+        "name": "bound_1023"
+      },
+      "overflow": {
+        "scrollW": 1023,
+        "clientW": 1023,
+        "hasHorizontalScroll": false,
+        "diff": 0,
+        "overflowingElements": []
+      },
+      "screenshot": "d:\\My Projects\\landing-page\\qa_screenshots\\bound_1023.png"
+    },
+    {
+      "viewport": {
+        "width": 1025,
+        "height": 800,
+        "name": "bound_1025"
+      },
+      "overflow": {
+        "scrollW": 1025,
+        "clientW": 1025,
+        "hasHorizontalScroll": false,
+        "diff": 0,
+        "overflowingElements": []
+      },
+      "screenshot": "d:\\My Projects\\landing-page\\qa_screenshots\\bound_1025.png"
+    },
+    {
+      "viewport": {
+        "width": 844,
+        "height": 390,
+        "name": "landscape_phone_844x390"
+      },
+      "overflow": {
+        "scrollW": 844,
+        "clientW": 844,
+        "hasHorizontalScroll": false,
+        "diff": 0,
+        "overflowingElements": []
+      },
+      "screenshot": "d:\\My Projects\\landing-page\\qa_screenshots\\landscape_phone_844x390.png"
+    },
+    {
+      "viewport": {
+        "width": 1024,
+        "height": 768,
+        "name": "landscape_tablet_1024x768"
+      },
+      "overflow": {
+        "scrollW": 1024,
+        "clientW": 1024,
+        "hasHorizontalScroll": false,
+        "diff": 0,
+        "overflowingElements": []
+      },
+      "screenshot": "d:\\My Projects\\landing-page\\qa_screenshots\\landscape_tablet_1024x768.png"
+    }
+  ],
+  "errors": [],
+  "consoleLogs": []
+}
